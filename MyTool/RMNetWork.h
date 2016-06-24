@@ -7,7 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
-
+//genggaiganeg
 @interface RMNetWork : NSObject
 + (RMNetWork *)shareInstance;
 
