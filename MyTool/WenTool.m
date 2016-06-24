@@ -107,7 +107,8 @@
     activityIndicatorView.center = view.center;
     [view addSubview:activityIndicatorView];
     return activityIndicatorView;
-}
+}看精神焕发结束的疯狂
+
 /*
  *brief :UIAlertController (ios8.0之后才出现的新控件)
  **/
