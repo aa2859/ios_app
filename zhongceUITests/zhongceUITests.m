@@ -6,13 +6,7 @@
 //  Copyright © 2016年 fuwenwen. All rights reserved.
 //
 
-#import <XCTest/XCTest.h>
-
-@interface zhongceUITests : XCTestCase
-
-@end
-
-@implementation zhongceUITests
+主更改
 
 - (void)setUp {
     [super setUp];
