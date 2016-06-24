@@ -86,6 +86,7 @@
 		1097EFCA1CFE700E00BC2802 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1097EFC81CFE700E00BC2802 /* LaunchScreen.storyboard */; };
 		1097EFD51CFE700E00BC2802 /* zhongceTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 1097EFD41CFE700E00BC2802 /* zhongceTests.m */; };
 		1097EFE01CFE700E00BC2802 /* zhongceUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 1097EFDF1CFE700E00BC2802 /* zhongceUITests.m */; };
+		109DCFDD1D1CCFDC005911B3 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 109DCFDC1D1CCFDC005911B3 /* README.md */; };
 		C27224DB1D10EEDC002B5044 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = C27224DA1D10EEDC002B5044 /* Info.plist */; };
 /* End PBXBuildFile section */
 
@@ -261,6 +262,7 @@
 		1097EFDB1CFE700E00BC2802 /* zhongceUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = zhongceUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1097EFDF1CFE700E00BC2802 /* zhongceUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = zhongceUITests.m; sourceTree = "<group>"; };
 		1097EFE11CFE700E00BC2802 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		109DCFDC1D1CCFDC005911B3 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		C27224DA1D10EEDC002B5044 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -577,6 +579,7 @@
 		1097EFAB1CFE700E00BC2802 = {
 			isa = PBXGroup;
 			children = (
+				109DCFDC1D1CCFDC005911B3 /* README.md */,
 				105B3C801D10E9000071689E /* Assets.xcassets */,
 				105B3C811D10E9000071689E /* Base.lproj */,
 				105B3C861D10E9000071689E /* Library */,
@@ -846,6 +849,7 @@
 				105B3D5F1D10E9000071689E /* ThirdTableViewCell.m in Sources */,
 				105B3D2D1D10E9000071689E /* AFNetworkActivityIndicatorManager.m in Sources */,
 				105B3D261D10E9000071689E /* AFURLRequestSerialization.m in Sources */,
+				109DCFDD1D1CCFDC005911B3 /* README.md in Sources */,
 				105B3D6B1D10E9630071689E /* main.m in Sources */,
 				105B3D621D10E9000071689E /* date.m in Sources */,
 			);
