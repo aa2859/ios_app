@@ -13,11 +13,13 @@
 @end
 
 @implementation AppDelegate
+//sdfhsdfff
 
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
     return YES;
+    //sdfksdfsdf
 }
 
 - (void)applicationWillResignActive:(UIApplication *)application {

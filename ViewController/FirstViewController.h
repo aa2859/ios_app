@@ -11,6 +11,7 @@
 @interface FirstViewController : UIViewController<UIWebViewDelegate>
 {
     UIWebView *uiWebView;
+    NSString* hhh ;
 
 
 }
