@@ -69,7 +69,7 @@
             }
             [WenTool hudSuccessHidden];
         } failure:^(NSURLSessionDataTask * _Nullable task, NSError * _Nonnull error) {
-            [WenTool showMessage:@"服务器无响应！"];
+            [WenTool showMessage:@"服务器无响应！"];//genggaigenggai 
             [WenTool hudFailHidden];
         }];
     }else{
