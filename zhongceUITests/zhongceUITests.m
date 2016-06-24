@@ -1,22 +1,4 @@
-//
-//  zhongceUITests.m
-//  zhongceUITests
-//
-//  Created by Apple on 16/6/1.
-//  Copyright © 2016年 fuwenwen. All rights reserved.
-//
-
-#import <XCTest/XCTest.h>
-
-@interface zhongceUITests : XCTestCase
-
-@end
-
-@implementation zhongceUITests
-
-- (void)setUp {
-    [super setUp];
-    
+更改3
     // Put setup code here. This method is called before the invocation of each test method in the class.
     
     // In UI tests it is usually best to stop immediately when a failure occurs.
