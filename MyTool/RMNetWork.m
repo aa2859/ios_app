@@ -12,15 +12,7 @@
 
 @implementation RMNetWork
 
-+ (RMNetWork *)shareInstance
-{
-    static RMNetWork *netWork = nil;
-    if (netWork == nil) {
-        netWork = [[RMNetWork alloc] init];
-    }
-    return netWork;
-}
-
+//genggai
 - (BOOL)rechability
 {
     Reachability *r = [Reachability reachabilityWithHostName:@"www.baidu.com"];
