@@ -10,7 +10,10 @@
 
 @interface FirstViewController : UIViewController<UIWebViewDelegate>
 {
-  ///sdfjsdhfjsdhf skdf
+   UIWebView *uiWebView;		
+     NSString* hhh ;
+     
+      +  ///sdfjsdhfjsdhf skdf
 
 }
 
